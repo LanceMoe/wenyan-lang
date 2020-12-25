@@ -1,7 +1,12 @@
 .DS_Store
-package-lock.json
 node_modules/
 build/wenyan-linux
 build/wenyan-macos
 build/wenyan-win.exe
 temp
+dist
+/tools/calendar.html
+藏書樓
+.node-xmlhttprequest-*
+typings
+tools/wiki/repo
